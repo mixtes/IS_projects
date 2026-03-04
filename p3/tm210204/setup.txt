@@ -1,0 +1,18 @@
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+
+# ako treba promeniti interpreter:
+In PyCharm → File → Settings → Project: your_project → Python Interpreter
+
+Click the gear icon → Add Interpreter → Existing environment
+
+Browse to:
+
+makefile
+Copy
+Edit
+D:\Mihajlo\Desktop\Stvari za faks\IEP\Vezbe\V1\vezba\venv\Scripts\python.exe
